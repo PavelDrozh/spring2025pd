@@ -1,5 +1,5 @@
-What color is the sky?,Blue,Grey,Red,true
-How many continents are there on Earth?,5,6,7,false
-Who wrote 'Hamlet'?,Shakespeare,Dostoevsky,Hemingway,false
-What is the capital of France?,Paris,London,Berlin,false
-What color is an orange fruit?,Orange,Yellow,Green,false
+What color is the sky during clear daylight hours?,Blue,Grey,Red,false,1
+How many continents are there on Earth?,5,6,7,false,3
+Who wrote 'Hamlet'?,Shakespeare,Dostoevsky,Hemingway,false,1
+What is the capital of France?,Paris,London,Berlin,false,1
+What color is an orange fruit?,Orange,Yellow,Green,false,1
