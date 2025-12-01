@@ -21,7 +21,6 @@ class QuestionsRepoImplTest {
     @BeforeEach
     public void setUp() {
         repo = new QuestionsRepoImpl(resource);
-        repo.init();
     }
 
     @Test
