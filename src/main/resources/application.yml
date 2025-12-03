@@ -1,0 +1,8 @@
+resource:
+  file:
+    ru: "questionsRU.csv"
+    en: "questions.csv"
+spring:
+  application:
+    locale: ru-RU #en-US
+    name: spring2025pd
