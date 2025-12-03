@@ -8,9 +8,10 @@ import org.springframework.validation.annotation.Validated;
 @Getter
 @Setter
 @Validated
-@ConfigurationProperties(prefix = "resource")
+@ConfigurationProperties(prefix = "resource.file")
 public class PropertyConfig {
 
-    private String file;
+    private String en;
+    private String ru;
 
 }
