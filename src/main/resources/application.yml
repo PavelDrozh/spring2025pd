@@ -6,3 +6,6 @@ spring:
   application:
     locale: ru-RU #en-US
     name: spring2025pd
+  shell:
+    interactive:
+      enabled: true
